@@ -1,5 +1,4 @@
 # Changelog
-# Changelog
 
 ## Version 1.3
 - Renamed student fields.

@@ -1,5 +1,5 @@
 # Implemented Features
-# Implemented Features
+
 ## Student Information
 
 - Student ID
