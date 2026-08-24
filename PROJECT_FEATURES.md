@@ -18,3 +18,4 @@
 - Increased Student Name capacity to 100 characters
 - Improved Phone Number Capacity.
 - Rename Student Id
+-Renamed Student Name field from name to studentName
