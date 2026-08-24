@@ -1,4 +1,5 @@
 # Implemented Features
+
 ## Student Information
 
 - Student ID
@@ -21,3 +22,4 @@
 -Improved README with a clear project description
 -Added project file structure information to README.md.
 - Added team member information to README.md.
+-Organized project changes under appropriate version headings.
