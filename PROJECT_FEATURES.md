@@ -11,3 +11,6 @@
 - Student Phone Number
 - Student Address
 - Student Gender
+- Added Student Features
+- Added Student Credit Hours
+- Added Student Status
