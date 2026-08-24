@@ -16,3 +16,4 @@
 - Added Student Status
 - Added Student Credit Hours 
 - Increased Student Name capacity to 100 characters
+- Improved Phone Number Capacity

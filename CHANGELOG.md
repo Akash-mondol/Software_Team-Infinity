@@ -31,3 +31,6 @@
 
 ## Version 2.1
 - Increased Student Name capacity to 100 characters
+
+## Version 2.2
+- Improved Phone Number Capacity
