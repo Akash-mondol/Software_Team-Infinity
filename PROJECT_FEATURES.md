@@ -15,3 +15,4 @@
 - Added Student Credit Hours
 - Added Student Status
 - Added Student Credit Hours 
+- Increased Student Name capacity to 100 characters
