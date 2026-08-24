@@ -20,3 +20,9 @@
 
 ## Version 1.7
 - Added student gender.
+
+## Version 1.8
+- Added Student Features
+
+## Version 1.9
+- Added Student Credit Hours
