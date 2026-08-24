@@ -13,3 +13,4 @@
 - Student Gender
 - Added Student Features
 - Added Student Credit Hours 
+- Increased Student Name capacity to 100 characters

@@ -26,3 +26,9 @@
 
 ## Version 1.9
 - Added Student Credit Hours
+
+## Version 2.0
+- Add Student Status
+
+## Version 2.1
+- Increased Student Name capacity to 100 characters
