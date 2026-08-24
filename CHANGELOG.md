@@ -33,4 +33,7 @@
 - Increased Student Name capacity to 100 characters
 
 ## Version 2.2
-- Improved Phone Number Capacity
+- Improved Phone Number Capacity.
+
+## Version 2.3
+- Rename Student Id
