@@ -37,5 +37,9 @@
 
 ## Version 2.3
 - Rename Student Id
+
 ## Verson 2.4
 - Renamed Student Name field from name to studentName
+
+## Verson 2.5
+-Improved README with a clear project description
