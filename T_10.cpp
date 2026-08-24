@@ -14,20 +14,13 @@ struct Student {
     char gender[10];
     int semester;
     int creditHours;
+    char status[20];
 };
 
 int main() {
     Student s;
 
     s.id = 101;
-    std::strcpy(s.name, "Akash");
-    s.age = 22;
-    s.cgpa = 3.75;
-    std::strcpy(s.department, "CSE");
-    std::strcpy(s.email, "akash@example.com");
-    std::strcpy(s.phone, "01700000000");
-    std::strcpy(s.address, "Dhaka");
-    std::strcpy(s.gender, "Male");
     strcpy(s.name, "Akash");
     s.age = 22;
     s.cgpa = 3.75;
@@ -38,6 +31,7 @@ int main() {
     strcpy(s.gender, "Male");
     s.semester = 8;
     s.creditHours = 120;
+    strcpy(s.status, "Active");
 
     cout << "ID: " << s.id << endl;
     cout << "Name: " << s.name << endl;
@@ -50,7 +44,7 @@ int main() {
     cout << "Gender: " << s.gender << endl;
     cout << "Semester: " << s.semester << endl;
     cout << "Credit Hours: " << s.creditHours << endl;
+    cout << "Status: " << s.status << endl;
 
     return 0;
-}
 }
