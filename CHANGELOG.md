@@ -8,3 +8,15 @@
 
 ## Version 1.1
 - Added student age.
+
+## Version 1.4
+- Added student email.
+
+## Version 1.5
+- Added student phone number.
+
+## Version 1.6
+- Added student address.
+
+## Version 1.7
+- Added student gender.
