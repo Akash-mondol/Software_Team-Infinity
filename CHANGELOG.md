@@ -43,3 +43,7 @@
 
 ## Verson 2.5
 -Improved README with a clear project description
+
+## Verson 2.6
+-Added project file structure information to README.md.
+

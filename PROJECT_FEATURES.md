@@ -1,5 +1,4 @@
 # Implemented Features
-
 ## Student Information
 
 - Student ID
@@ -19,3 +18,5 @@
 - Improved Phone Number Capacity.
 - Rename Student Id
 -Renamed Student Name field from name to studentName
+-Improved README with a clear project description
+-Added project file structure information to README.md.
