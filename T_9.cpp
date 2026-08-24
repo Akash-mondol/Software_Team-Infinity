@@ -28,6 +28,14 @@ int main() {
     std::strcpy(s.phone, "01700000000");
     std::strcpy(s.address, "Dhaka");
     std::strcpy(s.gender, "Male");
+    strcpy(s.name, "Akash");
+    s.age = 22;
+    s.cgpa = 3.75;
+    strcpy(s.department, "CSE");
+    strcpy(s.email, "akash@example.com");
+    strcpy(s.phone, "01700000000");
+    strcpy(s.address, "Dhaka");
+    strcpy(s.gender, "Male");
     s.semester = 8;
     s.creditHours = 120;
 
@@ -44,4 +52,5 @@ int main() {
     cout << "Credit Hours: " << s.creditHours << endl;
 
     return 0;
+}
 }
