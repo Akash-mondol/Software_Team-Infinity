@@ -8,3 +8,8 @@ Student Management System is a simple project used to practice Git workflow mana
 - PROJECT_FEATURES.md – List of implemented features.
 - CHANGELOG.md – History of project changes.
 
+## Team Members
+
+- Md. Akash Ali Mondol
+- Kazi Sajidul Islam
+- S. M. Tanvir Hassan

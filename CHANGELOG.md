@@ -47,3 +47,5 @@
 ## Verson 2.6
 -Added project file structure information to README.md.
 
+## Verson 2.7
+- Added team member information to README.md.
